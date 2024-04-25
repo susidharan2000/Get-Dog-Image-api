@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.continer{
+    width: 400px ;
+    height: 400px;
+    text-align: center;
+}
+.card{
+    width: 400px ;
+    height: 350px;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    box-shadow:  1px 2px 3px rgb(82, 82, 82);
+}
+img{
+    width: 398px ;
+    height: 348px; 
+}
